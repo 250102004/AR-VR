@@ -1,2 +1,2 @@
 # AR-VR
-réalité aygmentée
+réalité augmentée
